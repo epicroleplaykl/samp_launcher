@@ -5,7 +5,7 @@
   <img src="https://github.com/Rishvan/EpicRoleplay/blob/e9eb3ecf68a1362d201039a43f6f24de9ec715af/images/epic.png" height="auto" width="400px">
 </p>
 <p align="center">
-<a href="https://github.com/Rishvan/EpicRoleplay">[CLICK HERE TO DOWNLOAD]</a>
+<a href="https://github.com/epic-rp/samp_launcher">[CLICK HERE TO DOWNLOAD]</a>
 </p>
 
 ## **Epic Roleplay (CROSS-PLATFORM) [PC/Mobile]**
