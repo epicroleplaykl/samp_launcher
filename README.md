@@ -19,7 +19,7 @@
 
 ## **Links:**
 **Discord:** https://dsc.gg/epic-rp <br/>
-**SERVER IP:** `epicrp.ddns.net:7777` <br/>
+
 
 <br />
 
