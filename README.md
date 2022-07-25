@@ -19,8 +19,7 @@
 
 ## **Links:**
 **Discord:** https://dsc.gg/epic-rp <br/>
-**SERVER IP:** `` <br/>
-<a href="http://www.game-state.com/159.65.145.14:7777/"><img src="http://www.game-state.com/159.65.145.14:7777/430x73_FA0000_FFFFFF_000000_000000.png" alt="www.Game-State.com" style="border-style: none;" /></a>
+**SERVER IP:** `epicrp.ddns.net:7777` <br/>
 
 <br />
 
