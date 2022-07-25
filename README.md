@@ -27,13 +27,6 @@
 
 ## **SA-MP Mobile Launcher Features:** <br />
 
-<br />
-
-<p align="left">
-  <img src="https://github.com/epic-rp/samp_launcher/blob/6c18fcc7af4fb93217aa43659599d387e6cdb2de/images/standard.gif" height="auto" width="420px">
-</p>
-
-<br />
 
 - ✅ PC and Mobile crossplay <br />
 - ✅ 90 FPS support <br />
@@ -43,6 +36,14 @@
 - ✅ Chat timestamp support <br />
 - ✅ Custom Modding support <br />
 - ✅ Less crashes! <br />
+
+<br />
+
+<p align="left">
+  <img src="https://github.com/epic-rp/samp_launcher/blob/6c18fcc7af4fb93217aa43659599d387e6cdb2de/images/standard.gif" height="auto" width="425px">
+</p>
+
+<br />
 
 ---
 
