@@ -39,8 +39,8 @@
 
 <br />
 
-<p align="left">
-  <img src="https://github.com/epic-rp/samp_launcher/blob/6c18fcc7af4fb93217aa43659599d387e6cdb2de/images/standard.gif" height="auto" width="425px">
+<p align="center">
+  <img src="https://github.com/epic-rp/samp_launcher/blob/6c18fcc7af4fb93217aa43659599d387e6cdb2de/images/standard.gif" height="auto" width="440px">
 </p>
 
 <br />
