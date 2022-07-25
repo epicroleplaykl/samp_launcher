@@ -1,4 +1,4 @@
-<p align="center">Welcome to the best GTA:SA Multiplayer server in the Kerala!.</p>
+<p align="center">Welcome to the best GTA:SA Multiplayer server in the Kerala!</p>
 
 ## <p align="center">GTA:SA E:RP Android Mobile Launcher</p>
 <p align="center">
