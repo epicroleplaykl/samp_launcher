@@ -17,6 +17,15 @@
 
 <br />
 
+<p align="center">
+  <img src="https://github.com/epic-rp/samp_launcher/blob/a08f2eba2fbdd8ee6a22cebcfe87ab3df4851701/images/standard_4.gif" height="auto" width="600px">
+</p>
+
+
+
+
+<br />
+
 ## **Links:**
 **Discord:** https://dsc.gg/epic-rp <br/>
 
