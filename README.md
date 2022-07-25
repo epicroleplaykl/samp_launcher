@@ -15,16 +15,7 @@
 - ✅ Realtime voice/text chatting
 - ✅ Best GTA SA-MP server in the Kerala
 
-<br />
 
-<p align="left">
-  <img src="https://github.com/epic-rp/samp_launcher/blob/6c18fcc7af4fb93217aa43659599d387e6cdb2de/images/standard.gif" height="auto" width="500px">
-</p>
-
-
-
-
-<br />
 
 ## **Links:**
 **Discord:** https://dsc.gg/epic-rp <br/>
@@ -35,6 +26,15 @@
 ----
 
 ## **SA-MP Mobile Launcher Features:** <br />
+
+<br />
+
+<p align="left">
+  <img src="https://github.com/epic-rp/samp_launcher/blob/6c18fcc7af4fb93217aa43659599d387e6cdb2de/images/standard.gif" height="auto" width="500px">
+</p>
+
+<br />
+
 - ✅ PC and Mobile crossplay <br />
 - ✅ 90 FPS support <br />
 - ✅ Optimized and stable FPS <br />
