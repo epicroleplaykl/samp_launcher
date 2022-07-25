@@ -15,7 +15,7 @@
 - ✅ Realtime voice/text chatting
 - ✅ Best GTA SA-MP server in the Kerala
 
-<a href="http://www.game-state.com/159.65.145.14:7777/%22%3E<img src="http://www.game-state.com/159.65.145.14:7777/430x73_FA0000_FFFFFF_000000_000000.png" alt="www.Game-State.com" style="border-style: none;" /></a>
+<a><img src="http://www.game-state.com/159.65.145.14:7777/430x73_FA0000_FFFFFF_000000_000000.png" alt="www.Game-State.com" style="border-style: none;" /></a>
 
 
 <br />
